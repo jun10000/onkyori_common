@@ -1,0 +1,5 @@
+Database:
+  Host: 'localhost'
+  User: 'onkyori'
+  Password: 'onkyo-ri'
+  Name: 'onkyori'
