@@ -7,10 +7,13 @@ This includes the MariaDB database definision file, and the common settings file
 If you combine this with other onkyori_*** modules (example. onkyori_kiosk), you will have new experiences.  
 
 ## Requirement
-I'm writing this now.  
+- Raspberry Pi 3 Type B
+    - OS: Raspbian
+    - Linux kernel: 4.14.41
+    - Packages:
+        - MariaDB database 10.1.23
 
-## Usage
-I'm writing this now.  
+<!-- ## Usage -->
 
 ## Install
 I'm writing this now.  
