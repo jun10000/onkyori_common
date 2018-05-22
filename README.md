@@ -13,6 +13,7 @@ If you combine this with other onkyori_*** modules (example. onkyori_kiosk), you
     - Linux Packages:
         - MariaDB database 10.1.23
     - Python Packages:
+        - PyMySQL 0.8.0
         - PyYAML 3.12
 
 ## Install
