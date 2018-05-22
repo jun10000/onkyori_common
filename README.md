@@ -10,8 +10,10 @@ If you combine this with other onkyori_*** modules (example. onkyori_kiosk), you
 - Raspberry Pi 3 Type B
     - OS: Raspbian
     - Linux kernel: 4.14.41
-    - Packages:
+    - Linux Packages:
         - MariaDB database 10.1.23
+    - Python Packages:
+        - PyYAML 3.12
 
 ## Install
 1. Place this repository files into your Raspberry Pi
