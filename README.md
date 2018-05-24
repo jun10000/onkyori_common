@@ -2,6 +2,8 @@
 onkyori_*** are modules what enable cooperation with the Onkyo RI system.  
 
 ## Description
+![Raspberry Pi](.readme/top.jpg)
+
 The onkyori_common is the core module in order to cooperate with the Onkyo RI system.  
 This includes the MariaDB database definision file, and the common settings file.  
 If you combine this with other onkyori_*** modules (example. onkyori_kiosk), you will have new experiences.  
