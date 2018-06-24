@@ -11,11 +11,11 @@ If you combine this with other onkyori_*** modules (example. onkyori_kiosk), you
 ## Requirement
 - Raspberry Pi 3 Type B
     - OS: Raspbian
-    - Linux kernel: 4.14.41
+    - Linux kernel: 4.14.50
     - Linux Packages:
         - MariaDB database 10.1.23
     - Python Packages:
-        - PyMySQL 0.8.0
+        - PyMySQL 0.8.1
         - PyYAML 3.12
 
 ## Install
