@@ -7,5 +7,5 @@ create table signals
   id    int auto_increment
     primary key,
   clock datetime(3) null,
-  name  varchar(20) not null
+  name  varchar(40) not null
 );
