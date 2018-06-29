@@ -41,6 +41,8 @@ If you combine this with other onkyori_*** modules (example. onkyori_kiosk), you
 - Various Signals
     - Power On
         ![Signal - Power On](.readme/oscilloscope/POWER_ON.PNG)
+    - Power On (on Timer: Play Dock)
+        ![Signal - Power On (Timer)](.readme/oscilloscope/POWER_ON_TIMER.PNG)
     - Power Off
         ![Signal - Power Off](.readme/oscilloscope/POWER_OFF.PNG)
     - Tape (Prev)
